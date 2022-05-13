@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/IotQtClient">
+        <file>Image/background.jpg</file>
+        <file>Image/light_off.png</file>
+        <file>Image/light_on.png</file>
+        <file>Image/plug_off.png</file>
+        <file>Image/plug_on.png</file>
+        <file>Image/room.png</file>
+        <file>Image/room1.png</file>
+        <file>Image/blue_off.png</file>
+        <file>Image/blue_on.png</file>
+        <file>Image/farm.png</file>
+        <file>Image/purple_off.png</file>
+        <file>Image/purple_on.png</file>
+        <file>Image/red_off.png</file>
+        <file>Image/red_on.png</file>
+        <file>Image/strawberry.png</file>
+        <file>6f8a463d93804f076b6ceb572f2c85b0.jpg</file>
+        <file>31ace1308c51e8c91ce981f9e647ac78.jpg</file>
+        <file>195854b6da1eba7593de9ba86007bc98.jpg</file>
+    </qresource>
+</RCC>

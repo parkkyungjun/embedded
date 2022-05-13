@@ -1,0 +1,5 @@
+E:\workspace\axa_git\io_dn4_sdk\example\C#_Console\bin\Release\DO_StaticDO.exe
+E:\workspace\axa_git\io_dn4_sdk\example\C#_Console\bin\Release\DO_StaticDO.pdb
+E:\workspace\axa_git\io_dn4_sdk\example\C#_Console\DO_StaticDO\obj\Release\ResolveAssemblyReference.cache
+E:\workspace\axa_git\io_dn4_sdk\example\C#_Console\DO_StaticDO\obj\Release\DO_StaticDO.exe
+E:\workspace\axa_git\io_dn4_sdk\example\C#_Console\DO_StaticDO\obj\Release\DO_StaticDO.pdb
